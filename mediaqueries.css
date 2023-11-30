@@ -1,5 +1,37 @@
 @media screen and (max-width: 600px) {
     body {
-        background-size: 75rem;
+        background-size: 50rem;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+        padding-left: 4.5rem;
+    }
+
+    .add-new-item {
+       margin: 25px 25px;
+    }
+
+    .content {
+        margin: 25px 25px 0;
+    }
+
+    .bottom-items {
+        margin: 0 25px;
+        letter-spacing: 0;
+    }
+
+    .filter {
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .theme-light {
+        --bg-top-image: 0 0 url(./images/bg-desktop-light.jpg) no-repeat;
+        --main-bg: hsl(0, 5%, 88%);
+        --todo-bg: hsl(0, 0%, 98%);
+        --todo-shadow: hsl(235, 19%, 35%);
+        --font-color: hsl(236, 9%, 61%);
+        --font-color-hover: hsl(235, 21%, 11%);
     }
 }
