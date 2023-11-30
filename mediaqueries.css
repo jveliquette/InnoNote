@@ -1,22 +1,5 @@
 @media screen and (max-width: 600px) {
     body {
-        background-size: contain;
-        height: fit-content;
-    }
-    h1 {
-        display: flex;
-        font-weight: 700;
-        font-size: 2rem;
-        align-content: center;
-        padding-left: 80px;
-        padding-bottom: 10px;
-    }
-    .theme-light {
-        --bg-top-image: 0 0 url(./images/bg-desktop-light.jpg) no-repeat;
-        --main-bg: hsl(240, 2%, 80%);
-        --todo-bg: hsl(0, 0%, 98%);
-        --todo-shadow: hsl(235, 19%, 35%);
-        --font-color: hsl(236, 9%, 61%);
-        --font-color-hover: hsl(235, 21%, 11%);
+        background-size: 75rem;
     }
 }
