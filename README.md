@@ -3,7 +3,7 @@
 ## Overview
 Welcome to innoNote, a simple and elegant ToDo app, a challenge from frontendmentor.io. This app allows users to manage their tasks efficiently, providing a clean and user-friendly interface.
 
-**Live Demo:** https://jveliquette.github.io/InnoNote/
+**Live Demo:** https://innonote-todo.netlify.app
 
 ## Features
 - Dark and light theme.
